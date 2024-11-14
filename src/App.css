@@ -19,7 +19,7 @@
 }
 
 .card {
-  background-color: rgba(255, 255, 255, 0.76);
+  background-color: rgba(255, 255, 255, 0.747);
   width: 80%;
   max-width: 600px;
   padding: 20px;
@@ -50,7 +50,7 @@
   height: 50px;
   width: 150px;
   opacity: 1;
-  background-color: #ffffff;
+  background-color: #d8cece;
   border: 1px solid rgba(22, 76, 167, 0.6);
   transition: transform 0.3s ease;
 }
