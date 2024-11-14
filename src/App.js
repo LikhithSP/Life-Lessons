@@ -5,8 +5,12 @@ import './App.css';
 class App extends React.Component{
   state = { lesson: ''};
   componentDidMount(){
-    console.log('COMPONENT DID MOUNT');
-  }  
+    
+  }
+  
+ fetchLesson = () => {
+  axios.get('https://api.adviceslip.com/advice');
+ }
 
   render(){
     return(
