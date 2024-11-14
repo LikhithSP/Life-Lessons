@@ -26,7 +26,7 @@ class App extends React.Component{
         <div className="card">
           <h1 className="heading">{this.state.advice}</h1>
           <button className="button" onClick={this.fetchLesson}>
-            <span>Give Me Another One</span>
+            <span>Another One</span>
           </button>
         </div>
       </div>
