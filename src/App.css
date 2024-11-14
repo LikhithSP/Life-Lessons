@@ -7,7 +7,7 @@
 
 .app {
   height: 100%;
-  background: url('./images/background.jpg');
+  background: url('./images/lesson.png');
   background-size: cover;
   background-position: center;
   display: flex;
@@ -19,7 +19,7 @@
 }
 
 .card {
-  background-color: rgba(255, 255, 255, 0.568);
+  background-color: rgba(255, 255, 255, 0.788);
   width: 80%;
   max-width: 600px;
   padding: 20px;
@@ -50,7 +50,7 @@
   height: 50px;
   width: 150px;
   opacity: 1;
-  background-color: #d8cece;
+  background-color: #f3ebeb;
   border: 1px solid rgba(22, 76, 167, 0.6);
   transition: transform 0.3s ease;
 }
