@@ -20,3 +20,9 @@
 <li>Axios: For making HTTP requests to fetch advice.</li>
 
 <li>CSS: For styling the application to be visually appealing and user-friendly.</li>
+
+## 🌐 Live Demo
+Check out the live version of the website <a href="https://simplelifelessons.netlify.app/">here</a>.
+
+## 🤝 Contributing
+Contributions are welcome! If you have suggestions for improvements or new features, feel free to submit a pull request or open an issue
