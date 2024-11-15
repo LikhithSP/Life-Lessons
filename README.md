@@ -15,8 +15,8 @@
 <li>Responsive Design: Fully responsive and mobile-friendly for access on any device.</li>
 
 ## 📚 Technologies Used
-React: For building the user interface.
+<li>React: For building the user interface.</li>
 
-Axios: For making HTTP requests to fetch advice.
+<li>Axios: For making HTTP requests to fetch advice.</li>
 
-CSS: For styling the application to be visually appealing and user-friendly.
+<li>CSS: For styling the application to be visually appealing and user-friendly.</li>
