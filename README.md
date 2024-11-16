@@ -26,3 +26,7 @@ Check out the live version of the website <a href="https://simplelifelessons.net
 
 ## 🤝 Contributing
 Contributions are welcome! If you have suggestions for improvements or new features, feel free to submit a pull request or open an issue
+
+## 🍀 Accomplishments
+<li> <a href="https://api.adviceslip.com/advice">Adviceslip</a> API for generation of lessons</li>
+<li> <a href="https://netlify.com">Netlify</a> for deployment of the React App </li>
